@@ -1,0 +1,30 @@
+{
+  "name": "contact-mp",
+  "version": "1.0.0",
+  "description": "Contact management application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-singh2127/contact-mp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arjun-singh2127/contact-mp/issues"
+  },
+  "homepage": "https://github.com/arjun-singh2127/contact-mp#readme",
+  "dependencies": {
+    "@react-navigation/native": "^7.1.22",
+    "@react-navigation/stack": "^7.6.8",
+    "react-native-gesture-handler": "^2.29.1",
+    "react-native-pager-view": "^6.9.1",
+    "react-native-reanimated": "^4.1.5",
+    "react-native-safe-area-context": "^5.6.2",
+    "react-native-screens": "^4.18.0"
+  }
+}
