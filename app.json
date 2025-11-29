@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Contact MP",
+    "slug": "contact-mp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.contactmp.app"
+    },
+    "android": {
+      "package": "com.contactmp.app"
+    },
+    "web": {}
+  }
+}
+

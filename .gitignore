@@ -28,3 +28,17 @@ yarn-error.log*
 *.swo
 *~
 
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+npm-debug.log
+yarn-error.log
+
