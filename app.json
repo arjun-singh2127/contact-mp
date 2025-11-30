@@ -12,10 +12,6 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.contactmp.app"
-    },
     "android": {
       "package": "com.contactmp.app"
     },
@@ -27,4 +23,3 @@
     }
   }
 }
-
