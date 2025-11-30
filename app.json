@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Contact MP",
-    "slug": "contact-mp",
+    "slug": "Contact-MP",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -19,7 +19,12 @@
     "android": {
       "package": "com.contactmp.app"
     },
-    "web": {}
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "9a9c231a-af12-49cc-9b2d-0239dde42772"
+      }
+    }
   }
 }
 
